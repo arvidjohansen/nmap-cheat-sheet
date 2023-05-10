@@ -3,6 +3,10 @@
 
 # OFte brukte kommandoer
 
+Beste cheat sheet: https://www.stationx.net/nmap-cheat-sheet/
+
+
+
 ## Vis hjelpetekst
 
 ```shell
@@ -21,7 +25,7 @@ For å få nmap til å scanne et target, selv om det ikke svarer på ping, må v
 
 ```shell
 -Pn
-```
+``` 
 
 ## Verbose output
 
